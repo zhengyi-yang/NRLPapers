@@ -148,7 +148,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Meng Qu, Jian Tang, Jingbo Shang, Xiang Ren, Ming Zhang, Jiawei Han.* CIKM 2017. [paper](https://arxiv.org/pdf/1709.06636.pdf)
 
 1. **On Embedding Uncertain Graphs.**
-*Jiafeng Hu, Reynold Cheng, Zhipeng Huang, Yixang Fang, Siqiang Luo.* CIKM 2017. [paper](http://i.cs.hku.hk/~zphuang/pub/CIKM17.pdf)
+*Jiafeng Hu, Reynold Cheng, Zhipeng Huang, Yixiang Fang, Siqiang Luo.* CIKM 2017. [paper](http://i.cs.hku.hk/~zphuang/pub/CIKM17.pdf)
 
 1. **Multi-view Clustering with Graph Embedding for Connectome Analysis.**
 *Guixiang Ma, Lifang He, Chun-Ta Lu, Weixiang Shao, Philip S Yu, Alex D Leow, Ann B Ragin.* CIKM 2017. [paper](https://www.cs.uic.edu/~clu/doc/cikm17_mcge.pdf)
